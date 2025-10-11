@@ -13,15 +13,11 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://anshupriyasingh.github.io/MyPortfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
